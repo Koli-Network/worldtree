@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html>
+<head>
+Welcome to GitHub Pages
+</head>
 
-You can use the [editor on GitHub](https://github.com/Koli-Network/worldtree/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+<div>
+To access our discord, click this link:
+<p><a href="https://discord.gg/vM6QpXh">Discord - World Tree</a></p>
+</div>
+</body>
 
 ### Markdown
 
@@ -35,3 +42,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
